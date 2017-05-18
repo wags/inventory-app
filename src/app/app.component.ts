@@ -24,13 +24,13 @@ export class AppComponent {
       new Product(
         'NEATOJACKET',
         'Blue Jacket',
-        '/assets/images/produts/blue-jacket.jpg',
+        '/assets/images/products/blue-jacket.jpg',
         ['Women', 'Apparel', 'Jackets & Vests'],
         238.99),
       new Product(
         'NICEHAT',
         'A Nice Black Hat',
-        '/resources/images/products/black-hat.jpg',
+        '/assets/images/products/black-hat.jpg',
         ['Men', 'Accessories', 'Hats'],
         29.99)
     ];
